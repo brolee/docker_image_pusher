@@ -3,3 +3,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 jc21/nginx-proxy-manager:latest
 ghcr.io/monlor/xiaoya-alist:latest
+rustdesk/rustdesk-server
