@@ -4,3 +4,4 @@ xhofe/alist:latest
 jc21/nginx-proxy-manager:latest
 ghcr.io/monlor/xiaoya-alist:latest
 rustdesk/rustdesk-server
+rustdesk/rustdesk-server-s6:latest
